@@ -17,10 +17,11 @@ h2 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
-    width: 140%;
+    width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
@@ -43,4 +44,14 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.right-space {
+    padding-right: 50px;
 }
