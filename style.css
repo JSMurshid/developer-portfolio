@@ -75,3 +75,19 @@ h2 {
     background-repeat: no-repeat;
     background-position: left;
 }
+
+#full-stack-experience {
+    border-left: 7px solid;
+    border-image: linear-gradient( blue , cyan );
+    border-image-slice: 1;
+}
+
+#web-dev-experience {
+    border-left: 7px solid;
+    border-image: linear-gradient( purple , tomato );
+    border-image-slice: 1;
+}
+
+footer {
+    text-align: center;
+}
